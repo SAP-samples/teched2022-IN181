@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IN181 - Achieving Composability with a Digital Integration Hub
 
 ## Description
 
