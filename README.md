@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+Becoming a composable enterprise starts with composable integration. Get real experience with an event-driven architecture (EDA) through the SAP Event Mesh capability and API-led consumption through API Management, SAP Graph, Cloud Integration, and process integration capabilities. Gain maximum flexibility on one platform, SAP Business Technology Platform.
 
 ## Overview
 
