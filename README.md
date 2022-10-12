@@ -17,7 +17,7 @@ The requirements to follow the exercises in this repository are...
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Prerequisites](exercises/ex0/)
-    - [Book the Integration Suite tenant](exercies/ex0#exercise-01-book-integration-suite-tenant)
+    - [Book the Integration Suite tenant](exercises/ex0#exercise-01-book-integration-suite-tenant)
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
