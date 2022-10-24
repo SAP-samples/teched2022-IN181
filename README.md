@@ -6,33 +6,27 @@ Becoming a composable enterprise starts with composable integration. Get real ex
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to the capabilities that make up a Digital Integration Hub, and takes a deep dive into API Management, SAP Event Mesh, and SAP Graph. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are:
+- An SAP Business Technology Platform (BTP) account. If you are creating a BTP account for the first time to participate in SAP TechEd, the best options would be: 
+    - SAP BTP Trial
+    - SAP BTP Pay-As-You-Go 
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Prerequisites](exercises/ex0/)
-    - [Book the Integration Suite tenant](exercises/ex0#exercise-01-book-integration-suite-tenant)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Prerequisites]
+    - If you do not yet have an SAP BTP account, please follow the instructions to create one here:
+        - https://developers.sap.com/tutorials/hcp-create-trial-account.html
+        
+- [Exercises - Part A - Using API Management in SAP Integration Suite] 
+    - Coming soon - Link to PDF
+- [Exercise 2 - Part B - Using SAP Graph]
+    - Coming soon - Link to PDF
+    
+## Further hands-on content
 
 ## How to obtain support
 
