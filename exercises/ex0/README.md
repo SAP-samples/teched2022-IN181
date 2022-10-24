@@ -5,7 +5,8 @@ In this exercise you will learn how to create an API Provider to connect to a Ga
 
 ## Step 1: Pre-requisites
 
-After completing these steps you will have....
+First, we need to create an account on the Gateway system and register for SAP Integration Suite free trial. Skip this step if already have a demo account.<br>![]().<img width="300" alt="image" src="https://user-images.githubusercontent.com/24410896/197649472-57f727ba-0b2f-402d-a173-8b3cc20e19b0.png">
+
 
 1.	Book tenant.
 <br>![](/exercises/ex0/images/book_tenant.png)
