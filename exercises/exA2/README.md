@@ -18,6 +18,8 @@ After completing these steps you will have created an API Proxy, by doing this, 
 
 5.	Select the GWSAMPLE_BASIC services by using the search bar to search for sample. You can use the Search to narrow down the list. Click on OK. The remaining fields from the API Proxy creation screen are populated from the OData metadata. 
 
+6.	Enter in the "Version" field <b>TechEd2022</b>
+
 6.	Click <b>Create</b>.
 
 7.	Click <b>Save</b>.
@@ -26,24 +28,18 @@ After completing these steps you will have created an API Proxy, by doing this, 
 
 
 
-## Exercise 1.2 Sub Exercise 2 Description
+## Testing the newly created API Proxy
 
-After completing these steps you will have...
+Now that you have created an API proxy from the ECC backend, it can be helpful to run a quick test to ensure that basic functionality is in place.
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
+1.	To Test your API proxy, expand the menu and expand <b>Test</b> then select <b>APIs</b>. 
 
-```
+2.	Select your API - in this case <b>GWSAMPLE_BASIC_TechEd2022</b>. 
 
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+3.	Select <b>Authentication: None</b> and change to <b>Basic Authentication</b>. Enter your ES5 user name and password.
+
+4.	Click the <b>Send</b> Button - you should receive back the sample API Data.
+
 
 
 ## Summary
