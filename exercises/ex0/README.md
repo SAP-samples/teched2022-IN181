@@ -1,6 +1,6 @@
 # Book Integration Suite tenant
 
-In this exercise you will learn how to create an API Provider to connect to a Gateway Demo System (ES5). At the end of this exercise, you will have an API Provider for Gateway Demo system with link to Catalog Service Collection. You can use this API Provider to discover and manage OData APIs from SAP Gateway and simplify configuration in case of back-end changes![image](https://user-images.githubusercontent.com/24410896/197633628-066e2298-1a59-483b-8c71-14aecdd0f37d.png)
+In this exercise you will learn how to create an API Provider to connect to a Gateway Demo System (ES5). At the end of this exercise, you will have an API Provider for Gateway Demo system with link to Catalog Service Collection. You can use this API Provider to discover and manage OData APIs from SAP Gateway and simplify configuration in case of back-end changes
 
 
 ## Level 2 Heading
