@@ -17,16 +17,17 @@ The requirements to follow the exercises in this repository are:
 
 ## Exercises
 
-- [Prerequisites]
+- Prerequisites
     - If you do not yet have an SAP BTP account, please follow the instructions to create one here:
         - https://developers.sap.com/tutorials/hcp-create-trial-account.html
-        
-- [Exercises - Part A - Using API Management in SAP Integration Suite] 
+        - https://store.sap.com/dcp/en/product/display-9999951781_live_v1
+- Exercises - Part A - Using API Management in SAP Integration Suite
     - Coming soon - Link to PDF
-- [Exercise 2 - Part B - Using SAP Graph]
+- Exercise 2 - Part B - Using SAP Graph
     - Coming soon - Link to PDF
     
 ## Further hands-on content
+- https://discovery-center.cloud.sap/missiondetail/3702/3745/
 
 ## How to obtain support
 
