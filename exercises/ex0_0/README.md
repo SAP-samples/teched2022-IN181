@@ -19,6 +19,6 @@ At the end of this step, we would have setup the Integration Suite service and r
 3. Do not access the Integration Suite application yet.! Click on Role Collections. Look for 'Integration_Provisioner' Role Collection, click on Edit and assign your User to this Role Collection. <br>![](/exercises/ex0_0/images/Picture7.png)
 4. If you see the 'APIPortal.Administrator', 'APIPortal.Selfservice.Administrator' and 'PI_Administrator' Role Collection, assign your User to these Collections if you do not see them assigned yet. If you do not see these Role Collections, that means Cloud Integration and API Management capabilities haven't been activated yet. You will need to follow point 5 to do so. <br>![](/exercises/ex0_0/images/Picture8.png) <br><br>![](/exercises/ex0_0/images/Picture9.png)
 5. <write>
-6. Depending on the traffic at this given point of time, the provisioning steps could take a while to successfully complete. Once the onboarding steps are complete, You will be presented with the the Integration Suite Landing page. 
-## Step 3: Test your Settings
-
+6. Depending on the traffic at this given point of time, the provisioning steps could take a while to successfully complete. Once the onboarding steps are complete, You will be presented with the the Integration Suite Landing page. <br>![](/exercises/ex0_0/images/Picture10.png)
+## Next Steps
+In the next exercise, we will configure the ES5 backend needed and expose an API.
