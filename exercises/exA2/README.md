@@ -1,10 +1,12 @@
 # Create an API Proxy
 
+:warning: Disclaimer When completing exercises, some data values or sceenshots may not match what you see on your screen. It is because the tenant you are working with will be unique to you.
+
 In this exercise, we will create an API proxy to connect to a relevant API provider, to discover OData services from SAP Gateway i.e. GWSAMPLE_BASIC. At the end of this exercise, you will have an API proxy for SAP Gateway System. You can use this API proxy to get usage analytics of an API, add detailed documentation about each method, hide specific methods from consumers and API documentations and activate API proxy.
 
 ## Creating API Proxy Steps
 
-After completing these steps you will have created an API Proxy, by doing this, in this exercise you will touch upon Manage phase of API life cycle management which in turns fast tracks adding functionality like traffic management, transformation, documentation without changing the implementation layer.
+<b>Objective</b>: After completing these steps you will have created an API Proxy, by doing this, in this exercise you will touch upon Manage phase of API life cycle management which in turns fast tracks adding functionality like traffic management, transformation, documentation without changing the implementation layer.
 <br><img src="/exercises/exA2/images/exA1_APIM_Lifecycle.png" width=60% height=60%>
 
 1. Navigate to APIs Portal - From the Home screen expand the Menu on the left, and expand <b>Design</b>, then click on API. This will bring up the Create API menu.
