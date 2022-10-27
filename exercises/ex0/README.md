@@ -26,7 +26,7 @@ As a prerequisite for running through this exercise, ensure you have followed th
 3. In the overview area, enter the Name and Description for the API Provider.
 
 | Field        | Value           |
-| ------------- |:-------------:|
+| ------------- |-------------|
 | Name      | SAPDeveloperSystemES5 |
 | Description      | Public SAP Gateway System exposing OData      | 
 
@@ -35,11 +35,11 @@ As a prerequisite for running through this exercise, ensure you have followed th
 4. Under the Connection tab, provide the following information.
 
 | Field        | Value           |
-| ------------- |:-------------:|
-| Name      | SAPDeveloperSystemES5 |
-| Description      | Public SAP Gateway System exposing OData      |
-| Name      | SAPDeveloperSystemES5 |
-| Description      | Public SAP Gateway System exposing OData      | 
+| ------------- |-------------|
+| Type      | Internet |
+| Host      | sapes5.sapdevcenter.com      |
+| Port      | 443 |
+| Use SSL      | (checked)      | 
 
 <br>![](/exercises/ex0/images/Picture11.png)
 
@@ -52,11 +52,12 @@ In case you are connecting to a non-default SAP Client then you can specify the 
 On the Catalog Service Settings tab, provide the following information
 
 | Field        | Value           |
-| ------------- |:-------------:|
-| Name      | SAPDeveloperSystemES5 |
-| Description      | Public SAP Gateway System exposing OData      |
-| Name      | SAPDeveloperSystemES5 |
-| Description      | Public SAP Gateway System exposing OData      |
+| ------------- |-------------|
+| Path Prefix      | /sap/opu/odata |
+| Service Collection URL      | /IWFND/CATALOGSERVICE/ServiceCollection      |
+| Authentication Type      | Basic|
+| UserName      | (your_GATEWAY_username)      |
+| Password      | (your_GATEWAY_password)       |
 
  <br>![](/exercises/ex0/images/Picture12.png)
 6. Click on Save at the top-right side. <br>![](/exercises/ex0/images/Picture13.png)
@@ -64,9 +65,9 @@ On the Catalog Service Settings tab, provide the following information
 ## Step 3: Test your Settings
 1. To Test your settings click on the Test Connection at the top right side  <br>![](/exercises/ex0/images/Picture14.png)
 2. The connection test is successful <br>![](/exercises/ex0/images/Picture15.png)
-3. To Test your settings, click the Catalog Service Settings tab on the API Provider. Click on the Catalog URL link to see the catalog. 
+3. To Test your settings, click the Catalog Service Settings tab on the API Provider. Click on the Catalog URL link to see the catalog. <br>![](/exercises/ex0/images/Picture17.png)
 4. When the URL was correct you should see a list of services available on the SAP Gateway system (this screen may look different on different browsers). 
-Enter your Gateway user and password when prompted by the browser.
+Enter your Gateway user and password when prompted by the browser.<br>![](/exercises/ex0/images/Picture16.png)
 
 Note: - After 3 failed attempts, your Gateway will lock.
 
