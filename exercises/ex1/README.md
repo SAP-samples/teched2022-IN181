@@ -1,19 +1,12 @@
-# Exercise 1 - Exercise 1 Description
+# Creating an API Product
 
-In this exercise, we will create...
 
-## Exercise 1.1 Sub Exercise 1 Description
+In  Integration Suite, API Proxies are grouped and exposed as Products. In this tutorial you will create a new product and assign the previously created API Proxy to it
 
-After completing these steps you will have created...
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+## Step 1 - Pre-requisites
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
-
+You have followed the previous exercises and created an API Proxy
 
 
 ## Exercise 1.2 Sub Exercise 2 Description
