@@ -21,4 +21,4 @@ At the end of this step, we would have setup the Integration Suite service and r
 5. <write>
 6. Depending on the traffic at this given point of time, the provisioning steps could take a while to successfully complete. Once the onboarding steps are complete, You will be presented with the the Integration Suite Landing page. <br>![](/exercises/ex0_0/images/Picture10.png)
 ## Next Steps
-In the next exercise, we will configure the ES5 backend needed and expose an API.
+In the next exercise, we will configure the ES5 backend needed and expose an API. Continue to - [Exercise 1 - Exercise 1 Configure an API Provider](../example1/README.md)
