@@ -33,7 +33,8 @@ The requirements to follow the exercises in this repository are:
     - Coming soon - Link to PDF
     
 ## Further hands-on content
-- https://discovery-center.cloud.sap/missiondetail/3702/3745/
+- [Discovery Center Mission - Get Started with Integration Suite - API Management](https://discovery-center.cloud.sap/missiondetail/3062/3072/)
+- [Discovery Center Mission - Build an Extension Application Using SAP Graph and SAP Event Mesh](https://discovery-center.cloud.sap/missiondetail/3702/3745/)
 
 ## How to obtain support
 
