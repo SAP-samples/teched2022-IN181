@@ -29,7 +29,7 @@ The requirements to follow the exercises in this repository are:
      - [Exercise 3 - Creating an API Product](../main/exercises/exercise3/README.md)
      - [Exercise 4 - Applying Policies to an API](../main/exercises/exercise4/README.md)
     
-- Part B - [Graph]([../main/exercises](https://github.com/SAP-samples/teched2022-IN181/tree/main/exercises/"IN181 - Achieving Composability with Graph.pdf")
+- Part B - Graph
     
 ## Further hands-on content
 - [Discovery Center Mission - Get Started with Integration Suite - API Management](https://discovery-center.cloud.sap/missiondetail/3062/3072/)
