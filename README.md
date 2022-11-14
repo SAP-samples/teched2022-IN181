@@ -22,7 +22,8 @@ The requirements to follow the exercises in this repository are:
         - https://developers.sap.com/tutorials/hcp-create-trial-account.html
         - https://store.sap.com/dcp/en/product/display-9999951781_live_v1
 - Exercises - Part A - Using API Management in SAP Integration Suite
-    - Coming soon - Link to PDF
+    [Getting started - Provisioning Integration Suite and activating API Management, Cloud Integration>https://github.com/SAP-samples/teched2022-IN181/tree/main/exercises/exercise0]
+    
 - Exercise 2 - Part B - Using SAP Graph
     - Coming soon - Link to PDF
     
