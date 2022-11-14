@@ -27,7 +27,7 @@ The requirements to follow the exercises in this repository are:
      - [Excecise 1 - Creating an API Provider](../main/exercises/exercise1/README.md)
      - [Exercise 2 - Create an API Proxy](../main/exercises/exercise2/README.md)
      - [Exercise 3 - Creating an API Product](../main/exercises/exercise3/README.md)
-     - [Exercise 4 - Applying Policies to an API](../main/exercises/exercise3/README.md)
+     - [Exercise 4 - Applying Policies to an API](../main/exercises/exercise4/README.md)
     
 - Part B - Graph
     - Coming soon - Link to PDF
