@@ -2,11 +2,11 @@
 
 ## Description
 
-Becoming a composable enterprise starts with composable integration. Get real experience with an event-driven architecture (EDA) through the SAP Event Mesh capability and API-led consumption through API Management, SAP Graph, Cloud Integration, and process integration capabilities. Gain maximum flexibility on one platform, SAP Business Technology Platform.
+Becoming a composable enterprise starts with composable integration. Learn about an event-driven architecture (EDA) through the SAP Event Mesh capability and API-led consumption through API Management, SAP Graph, Cloud Integration, and process integration capabilities. Gain maximum flexibility on one platform, SAP Business Technology Platform.
 
 ## Overview
 
-This session introduces attendees to the capabilities that make up a Digital Integration Hub, and takes a deep dive into API Management, SAP Event Mesh, and SAP Graph. 
+This session introduces attendees to the capabilities that make up a Digital Integration Hub, and takes a deep dive into API Management and Graph. 
 
 ## Requirements
 
