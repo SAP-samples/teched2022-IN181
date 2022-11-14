@@ -12,16 +12,16 @@ You have followed the previous exercises and created an API Proxy
 
 You have followed the previous exercises and created an API Proxy.
 
-1. In the upper right corner click on Policies to open the policy information for the API.
+1. In the upper right corner click on Policies to open the policy information for the API. <br>![](/exercises/exercise4/images/Picture2.png)
 
-2. In the Policy Editor, click on Edit.
+2. In the Policy Editor, click on Edit. <br>![](/exercises/exercise4/images/Picture3.png)
 
-3. Select the PreFlow from the ProxyEndpoint on the left hand side.
+3. Select the PreFlow from the ProxyEndpoint on the left hand side. <br>![](/exercises/exercise4/images/Picture4.png)
 
-4. Add Verify API Key policy. On the right hand, find the Security Policies section under the Policies pane. Find the Verify API Key policy and click the + next to the policy name.
+4. Add Verify API Key policy. On the right hand, find the Security Policies section under the Policies pane. Find the Verify API Key policy and click the + next to the policy name. <br>![](/exercises/exercise4/images/Picture5.png)
 
-5. Enter the Policy Name CheckAPIKey and click on Add.
+5. Enter the Policy Name VerifyAPIKey and click on Add. <br>![](/exercises/exercise4/images/Picture6.png)
 
-6. Update API Key tag. In the Code Editor found in the bottom pane, look for the <APIKey ... /> tag. Replace the string variable_containing_api_key with request.header.APIKey. Update and save changes.
+6. Update API Key tag. In the Code Editor found in the bottom pane, look for the <APIKey ... /> tag. Replace the string variable_containing_api_key with request.header.APIKey. Update and save changes. <br>![](/exercises/exercise4/images/Picture7.png)
 
 7. Click on Save to save the changes to the API and enforce the new policies.
