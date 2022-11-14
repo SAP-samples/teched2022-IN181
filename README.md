@@ -19,11 +19,17 @@ The requirements to follow the exercises in this repository are:
 
 - Prerequisites
     - If you do not yet have an SAP BTP account, please follow the instructions to create one here:
-        - https://developers.sap.com/tutorials/hcp-create-trial-account.html
-        - https://store.sap.com/dcp/en/product/display-9999951781_live_v1
-- Exercises - Part A - [Using API Management in SAP Integration Suite](../main/exercises/exercise0/README.md)
+        - [Create a BTP Trial account](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
+        - [Create a BTP Pay-As-You-Go (PAYG) account](https://store.sap.com/dcp/en/product/display-9999951781_live_v1)
+     
+- Part A - API Management
+     - [Getting Started - Provisioning Integration Suite and activating API Management, Cloud Integration](../main/exercises/exercise0/README.md)
+     - [Excecise 1 - Creating an API Provider](../main/exercises/exercise1/README.md)
+     - [Exercise 2 - Create an API Proxy](../main/exercises/exercise2/README.md)
+     - [Exercise 3 - Creating an API Product](../main/exercises/exercise3/README.md)
+     - [Exercise 4 - Applying Policies to an API](../main/exercises/exercise3/README.md)
     
-- Exercise 2 - Part B - Using SAP Graph
+- Part B - Graph
     - Coming soon - Link to PDF
     
 ## Further hands-on content
