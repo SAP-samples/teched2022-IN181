@@ -54,5 +54,5 @@ Now that you have created an API proxy on top of an API discovered from the ECC 
 
 Congratulations! You've now successfully created and deployed an API Proxy, and tested that it is successfully able to return data from the backend! 
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 3 - Create an API Product](../example3/README.md)
 
