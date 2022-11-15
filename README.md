@@ -33,6 +33,9 @@ The requirements to follow the exercises in this repository are:
     
 - Part B - Graph 
      - [Exercise 7 - Achieving composability: using Graph](../main/exercises/IN181-Achieving_Composability_with_Graph.pdf)
+     
+## Presentation materials
+- [Graph presentation](../main/exercises/Teched_2022_IN181_Graph_presentation.pdf)
     
 ## Further hands-on content
 - [Discovery Center Mission - Get Started with Integration Suite - API Management](https://discovery-center.cloud.sap/missiondetail/3062/3072/)
