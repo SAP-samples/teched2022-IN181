@@ -37,5 +37,5 @@ You have followed the previous exercises and created an API Proxy
 
 You've now published an API Product to the API Business Hub Enterprise
 
-Continue to - [Exercise 4 - Configure API Policies to an API](../example4/README.md)
+Continue to - [Exercise 4 - Configure API Policies to an API](../exercise4/README.md)
 
