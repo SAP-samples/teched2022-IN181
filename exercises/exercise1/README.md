@@ -71,7 +71,7 @@ Enter your Gateway user and password when prompted by the browser.<br>![](/exerc
 
 Note: - After 3 failed attempts, your Gateway will lock.
 
-Congratulations! You have successfully created an API provider!
+Congratulations! You have successfully created an API provider. Continue to - [Exercise 2 - Exercise 2 Configure an API Proxy](../exercise2/README.md)
 
 
 
