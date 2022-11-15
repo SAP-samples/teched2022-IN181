@@ -8,7 +8,7 @@ Make sure that you have the necessary Role Collections to access the Integration
 ## Step 2 - Log into Cloud Integration from the Integration Studio.
 1. From the main Studio, navigate to 'Design' > 'Integrations'. <br>![](/exercises/exercise6/images/Picture1.png)
 
-2. Click on 'Import' to import an Integretion Package that we've already prepared for you. The package to import has been placed in the bundles folder. <br>![](/exercises/exercise6/images/Picture2.png)
+2. Click on 'Import' to import an Integretion Package that we've already prepared for you. The package to import has been placed in the [bundles](../exercise6/bundles/ProductPackage.zip) folder. <br>![](/exercises/exercise6/images/Picture2.png)
 
 3. Once the import is successful, you should see one 'ProductPackage' <br>![](/exercises/exercise6/images/Picture3.png)
 
