@@ -28,9 +28,11 @@ The requirements to follow the exercises in this repository are:
      - [Exercise 2 - Create an API Proxy](../main/exercises/exercise2/README.md)
      - [Exercise 3 - Creating an API Product](../main/exercises/exercise3/README.md)
      - [Exercise 4 - Applying Policies to an API](../main/exercises/exercise4/README.md)
+     - [Exercise 5 - Consuming an API from API Business Hub Enterprise](../main/exercises/exercise5/README.md)
+     - [Exercise 6 - Creating an Integration Flow as a REST, OData API and managing as an API Proxy](../main/exercises/exercise6/README.md)
     
 - Part B - Graph 
-     - [Exercise 5 - Achieving composability: using Graph](../main/exercises/IN181-Achieving_Composability_with_Graph.pdf)
+     - [Exercise 7 - Achieving composability: using Graph](../main/exercises/IN181-Achieving_Composability_with_Graph.pdf)
     
 ## Further hands-on content
 - [Discovery Center Mission - Get Started with Integration Suite - API Management](https://discovery-center.cloud.sap/missiondetail/3062/3072/)
