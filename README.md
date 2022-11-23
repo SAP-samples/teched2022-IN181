@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-IN181)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-IN181)
+
 # IN181 - Achieving Composability with a Digital Integration Hub
 
 ## Description
